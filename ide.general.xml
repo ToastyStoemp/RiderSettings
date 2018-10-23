@@ -2,7 +2,6 @@
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
     <option name="reopenLastProject" value="false" />
-    <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
@@ -11,7 +10,7 @@
     <entry key="actionSystem.fix.alt.gr" value="true" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
-    <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.mac.file.chooser.native" value="false" />
+    <entry key="search.everywhere.settings" value="true" />
   </component>
 </application>
