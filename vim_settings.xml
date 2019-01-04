@@ -1,0 +1,33 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Ary/Assets/AstarPathfindingProject/ExampleScenes/Example3_Recast_Navmesh1/MecanimBridge.cs" timestamp="1546601174764">
+        <mark key="'" line="78" column="84" />
+        <mark key="[" line="132" column="20" />
+        <mark key="]" line="132" column="19" />
+        <mark key="." line="132" column="19" />
+        <mark key="^" line="132" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Ary/Assets/AstarPathfindingProject/ExampleScenes/Example11_RVO/GroupController.cs" timestamp="1546607024118" />
+    </filemarks>
+    <jumps>
+      <jump line="78" column="84" filename="$USER_HOME$/Documents/Ary/Assets/AstarPathfindingProject/ExampleScenes/Example3_Recast_Navmesh1/MecanimBridge.cs" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CQkvLy8gPHN1bW1hcnk+Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkvLy8gPHN1bW1hcnk+Cg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+  </component>
+</application>
