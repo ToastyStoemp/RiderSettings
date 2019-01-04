@@ -11,15 +11,30 @@
         <mark key="^" line="132" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Ary/Assets/AstarPathfindingProject/ExampleScenes/Example11_RVO/GroupController.cs" timestamp="1546607024118" />
+      <file name="$USER_HOME$/Documents/Ary/Assets/_eXiin/Packages/AI Core/Agent/AI_Agent_Core.cs" timestamp="1546623445003">
+        <mark key="[" line="335" column="0" />
+        <mark key="]" line="335" column="20" />
+        <mark key="." line="335" column="20" />
+        <mark key="^" line="332" column="19" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="78" column="84" filename="$USER_HOME$/Documents/Ary/Assets/AstarPathfindingProject/ExampleScenes/Example3_Recast_Navmesh1/MecanimBridge.cs" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLy8gPHN1bW1hcnk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkZpbmlzaGVkVHVybmluZ1hBbW91bnQuSW52b2tlKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkZpbmlzaGVkVHVybmluZ1hBbW91bnQuSW52b2tlKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkZpbmlzaGVkVHVybmluZ1hBbW91bnQuSW52b2tlKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9uRGllZCAhPSBudWxsKXt9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkvLy8gPHN1bW1hcnk+Cg==</text>
       </register>
     </registers>
@@ -28,6 +43,13 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
