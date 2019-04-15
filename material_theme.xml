@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="-1ed1b635:16a2361fbbe:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>
