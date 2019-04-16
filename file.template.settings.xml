@@ -1,0 +1,9 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="AI_Action.cs" reformat="true" live-template-enabled="true" />
+      <template name="AI_Decision.cs" reformat="true" live-template-enabled="true" />
+      <template name="EditorScript.cs" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>
