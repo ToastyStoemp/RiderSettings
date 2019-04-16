@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="CleanOnSave">
-      <action id="SilentCodeCleanup" />
-      <action id="SaveAll" />
-    </macro>
-  </component>
-</application>
