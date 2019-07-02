@@ -22,7 +22,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Attach to Unity Editor'</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -70,7 +70,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Attach to Unity Editor'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -86,7 +86,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>269</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Attach to Unity Editor'">
@@ -94,7 +94,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Attach to Unity Editor'</Description>
-          <Count>27</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
