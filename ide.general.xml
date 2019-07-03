@@ -11,7 +11,6 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="search.everywhere.settings" value="true" />
-    <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="win.editor.thumb.default.alpha.base" value="0" />
@@ -21,5 +20,8 @@
     <entry key="win.editor.thumb.default.fill.min" value="102" />
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="ide.win.file.chooser.native" value="true" />
+    <entry key="ide.win.frame.decoration" value="true" />
   </component>
 </application>
