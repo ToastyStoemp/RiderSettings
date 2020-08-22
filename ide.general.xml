@@ -8,10 +8,8 @@
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
+    <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
-    <entry key="ide.tooltip.showAllSeverities" value="true" />
-    <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
-    <entry key="ide.tree.collapse.recursively" value="false" />
   </component>
 </application>
